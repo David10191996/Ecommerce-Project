@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace SDK.Shared.Entities
 {
-    public class Rol : BaseMaster<int, string>
+    public class Role : BaseMaster<int, string>
     {
         
     }
