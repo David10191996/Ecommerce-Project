@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecommerce-Project\\Ecommerce-Project\\Shared\\Shared.csproj": {}
+    "d:\\Personal\\Ecommerce-Project\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "D:\\Ecommerce-Project\\Ecommerce-Project\\Shared\\Shared.csproj": {
+    "d:\\Personal\\Ecommerce-Project\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecommerce-Project\\Ecommerce-Project\\Shared\\Shared.csproj",
+        "projectUniqueName": "d:\\Personal\\Ecommerce-Project\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Ecommerce-Project\\Ecommerce-Project\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\David- Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecommerce-Project\\Ecommerce-Project\\Shared\\obj\\",
+        "projectPath": "d:\\Personal\\Ecommerce-Project\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\idgrisalesb\\.nuget\\packages\\",
+        "outputPath": "d:\\Personal\\Ecommerce-Project\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David- Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\idgrisalesb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
